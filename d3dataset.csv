@@ -1,0 +1,151 @@
+Sepal_Length,Sepal_Width,Petal_Length,Petal_Width,Species,Name,Address,City,State,zip,Phone
+5.1,3.5,1.4,0.2,setosa,NextLOGiK,7090 Deepage Road,Columbia,CT,21045,8773998086
+4.9,3,1.4,0.2,setosa,Test Lab,13039 Tarragon Rd,Reisterstown,MD,21136,4109284789
+4.7,3.2,1.3,0.2,setosa,New lab ,500 east ave,newyork,NY,10017,3279237932
+4.6,3.1,1.5,0.2,setosa,new lab,8000 Towers Crescent Drive- Suite 1110- Vienna,vienna,VA,22182,8989098080
+5,3.6,1.4,0.2,setosa,Test demo,Four Creeks WMA- Callahan,callahan,FL,32011,6767787878
+5.4,3.9,1.7,0.4,setosa,Demo test ,Southeast Dr,austin,GA,23323,3242342334
+4.6,3.4,1.4,0.3,setosa,Demo Laboratory,13036 Tarragon Rd,Reisterstown,dzfgsdfg,21117,45645-56456123123
+5,3.4,1.5,0.2,setosa,Rainy Day,7061 Deepage Drive,Columbia,MD,21045,4104466136
+4.4,2.9,1.4,0.2,setosa,Test Lab 111318,13037 Tarragon Rd # B,Reisterstown,MD,21136,4104464789
+4.9,3.1,1.5,0.1,setosa,November Lab,13037 Tarragon Rd,Reisterstown,MD,21136,4104466136
+5.4,3.7,1.5,0.2,setosa,Lab Test1,800 Nicholson Lane ,Rockville,MD,20902,4543316464
+4.8,3.4,1.6,0.2,setosa,Mike's Concrete Lab,2604 Warren Way,Frederick,CO,21701,3015147645
+4.8,3,1.4,0.1,setosa,Test Labs,9081 8th St,Accro,AL,29556,2656566565
+4.3,3,1.1,0.1,setosa,Demo Lab - 121719,1562 Putty Hill Ave,Baltimore,MD,21286,4654544564
+5.8,4,1.2,0.2,setosa,KW Laboratory,137 Teaticket Hwy,Teaticket,MA,2536,5997897897
+5.7,4.4,1.5,0.4,setosa,Surel Technicals,4246  Tibbs Avenue,Culbertson,MT,59218,8522585252
+5.4,3.9,1.3,0.4,setosa,Tarun informatics,3090 N 4138 Rd,fdssf,AL,23123,2311312312
+5.1,3.5,1.4,0.3,setosa,Teera,dasas,alaska,AL,23414,3423423423
+5.7,3.8,1.7,0.3,setosa,New Jack Asphalt ,2233 Tilco Dr,Frederick ,MD,21704,2406657654
+5.1,3.8,1.5,0.3,setosa,Gamma Ray Engineering ,1150 Beech Drive,Greenville ,MD,29601,7038894423
+5.4,3.4,1.7,0.2,setosa,adsas,asdas,asdasd,AK,12344,1342342343
+5.1,3.7,1.5,0.4,setosa,NextLOGiK,7090 Deepage Road,Columbia,CT,21045,8773998086
+4.6,3.6,1,0.2,setosa,Test Lab,13039 Tarragon Rd,Reisterstown,MD,21136,4109284789
+5.1,3.3,1.7,0.5,setosa,New lab ,500 east ave,newyork,NY,10017,3279237932
+4.8,3.4,1.9,0.2,setosa,new lab,8000 Towers Crescent Drive- Suite 1110- Vienna,vienna,VA,22182,8989098080
+5,3,1.6,0.2,setosa,Test demo,Four Creeks WMA- Callahan,callahan,FL,32011,6767787878
+5,3.4,1.6,0.4,setosa,Demo test ,Southeast Dr,austin,GA,23323,3242342334
+5.2,3.5,1.5,0.2,setosa,Demo Laboratory,13036 Tarragon Rd,Reisterstown,dzfgsdfg,21117,45645-56456123123
+5.2,3.4,1.4,0.2,setosa,Rainy Day,7061 Deepage Drive,Columbia,MD,21045,4104466136
+4.7,3.2,1.6,0.2,setosa,Test Lab 111318,13037 Tarragon Rd # B,Reisterstown,MD,21136,4104464789
+4.8,3.1,1.6,0.2,setosa,November Lab,13037 Tarragon Rd,Reisterstown,MD,21136,4104466136
+5.4,3.4,1.5,0.4,setosa,Lab Test1,800 Nicholson Lane ,Rockville,MD,20902,4543316464
+5.2,4.1,1.5,0.1,setosa,Mike's Concrete Lab,2604 Warren Way,Frederick,CO,21701,3015147645
+5.5,4.2,1.4,0.2,setosa,Test Labs,9081 8th St,Accro,AL,29556,2656566565
+4.9,3.1,1.5,0.2,setosa,Demo Lab - 121719,1562 Putty Hill Ave,Baltimore,MD,21286,4654544564
+5,3.2,1.2,0.2,setosa,KW Laboratory,137 Teaticket Hwy,Teaticket,MA,2536,5997897897
+5.5,3.5,1.3,0.2,setosa,Surel Technicals,4246  Tibbs Avenue,Culbertson,MT,59218,8522585252
+4.9,3.6,1.4,0.1,setosa,Tarun informatics,3090 N 4138 Rd,fdssf,AL,23123,2311312312
+4.4,3,1.3,0.2,setosa,Teera,dasas,alaska,AL,23414,3423423423
+5.1,3.4,1.5,0.2,setosa,New Jack Asphalt ,2233 Tilco Dr,Frederick ,MD,21704,2406657654
+5,3.5,1.3,0.3,setosa,Gamma Ray Engineering ,1150 Beech Drive,Greenville ,MD,29601,7038894423
+4.5,2.3,1.3,0.3,setosa,adsas,asdas,asdasd,AK,12344,1342342343
+4.4,3.2,1.3,0.2,setosa,NextLOGiK,7090 Deepage Road,Columbia,CT,21045,8773998086
+5,3.5,1.6,0.6,setosa,Test Lab,13039 Tarragon Rd,Reisterstown,MD,21136,4109284789
+5.1,3.8,1.9,0.4,setosa,New lab ,500 east ave,newyork,NY,10017,3279237932
+4.8,3,1.4,0.3,setosa,new lab,8000 Towers Crescent Drive- Suite 1110- Vienna,vienna,VA,22182,8989098080
+5.1,3.8,1.6,0.2,setosa,Test demo,Four Creeks WMA- Callahan,callahan,FL,32011,6767787878
+4.6,3.2,1.4,0.2,setosa,Demo test ,Southeast Dr,austin,GA,23323,3242342334
+5.3,3.7,1.5,0.2,setosa,Demo Laboratory,13036 Tarragon Rd,Reisterstown,dzfgsdfg,21117,45645-56456123123
+5,3.3,1.4,0.2,setosa,Rainy Day,7061 Deepage Drive,Columbia,MD,21045,4104466136
+7,3.2,4.7,1.4,versicolor,Test Lab 111318,13037 Tarragon Rd # B,Reisterstown,MD,21136,4104464789
+6.4,3.2,4.5,1.5,versicolor,November Lab,13037 Tarragon Rd,Reisterstown,MD,21136,4104466136
+6.9,3.1,4.9,1.5,versicolor,Lab Test1,800 Nicholson Lane ,Rockville,MD,20902,4543316464
+5.5,2.3,4,1.3,versicolor,Mike's Concrete Lab,2604 Warren Way,Frederick,CO,21701,3015147645
+6.5,2.8,4.6,1.5,versicolor,Test Labs,9081 8th St,Accro,AL,29556,2656566565
+5.7,2.8,4.5,1.3,versicolor,Demo Lab - 121719,1562 Putty Hill Ave,Baltimore,MD,21286,4654544564
+6.3,3.3,4.7,1.6,versicolor,KW Laboratory,137 Teaticket Hwy,Teaticket,MA,2536,5997897897
+4.9,2.4,3.3,1,versicolor,Surel Technicals,4246  Tibbs Avenue,Culbertson,MT,59218,8522585252
+6.6,2.9,4.6,1.3,versicolor,Tarun informatics,3090 N 4138 Rd,fdssf,AL,23123,2311312312
+5.2,2.7,3.9,1.4,versicolor,Teera,dasas,alaska,AL,23414,3423423423
+5,2,3.5,1,versicolor,New Jack Asphalt ,2233 Tilco Dr,Frederick ,MD,21704,2406657654
+5.9,3,4.2,1.5,versicolor,Gamma Ray Engineering ,1150 Beech Drive,Greenville ,MD,29601,7038894423
+6,2.2,4,1,versicolor,adsas,asdas,asdasd,AK,12344,1342342343
+6.1,2.9,4.7,1.4,versicolor,NextLOGiK,7090 Deepage Road,Columbia,CT,21045,8773998086
+5.6,2.9,3.6,1.3,versicolor,Test Lab,13039 Tarragon Rd,Reisterstown,MD,21136,4109284789
+6.7,3.1,4.4,1.4,versicolor,New lab ,500 east ave,newyork,NY,10017,3279237932
+5.6,3,4.5,1.5,versicolor,new lab,8000 Towers Crescent Drive- Suite 1110- Vienna,vienna,VA,22182,8989098080
+5.8,2.7,4.1,1,versicolor,Test demo,Four Creeks WMA- Callahan,callahan,FL,32011,6767787878
+6.2,2.2,4.5,1.5,versicolor,Demo test ,Southeast Dr,austin,GA,23323,3242342334
+5.6,2.5,3.9,1.1,versicolor,Demo Laboratory,13036 Tarragon Rd,Reisterstown,dzfgsdfg,21117,45645-56456123123
+5.9,3.2,4.8,1.8,versicolor,Rainy Day,7061 Deepage Drive,Columbia,MD,21045,4104466136
+6.1,2.8,4,1.3,versicolor,Test Lab 111318,13037 Tarragon Rd # B,Reisterstown,MD,21136,4104464789
+6.3,2.5,4.9,1.5,versicolor,November Lab,13037 Tarragon Rd,Reisterstown,MD,21136,4104466136
+6.1,2.8,4.7,1.2,versicolor,Lab Test1,800 Nicholson Lane ,Rockville,MD,20902,4543316464
+6.4,2.9,4.3,1.3,versicolor,Mike's Concrete Lab,2604 Warren Way,Frederick,CO,21701,3015147645
+6.6,3,4.4,1.4,versicolor,Test Labs,9081 8th St,Accro,AL,29556,2656566565
+6.8,2.8,4.8,1.4,versicolor,Demo Lab - 121719,1562 Putty Hill Ave,Baltimore,MD,21286,4654544564
+6.7,3,5,1.7,versicolor,KW Laboratory,137 Teaticket Hwy,Teaticket,MA,2536,5997897897
+6,2.9,4.5,1.5,versicolor,Surel Technicals,4246  Tibbs Avenue,Culbertson,MT,59218,8522585252
+5.7,2.6,3.5,1,versicolor,Tarun informatics,3090 N 4138 Rd,fdssf,AL,23123,2311312312
+5.5,2.4,3.8,1.1,versicolor,Teera,dasas,alaska,AL,23414,3423423423
+5.5,2.4,3.7,1,versicolor,New Jack Asphalt ,2233 Tilco Dr,Frederick ,MD,21704,2406657654
+5.8,2.7,3.9,1.2,versicolor,Gamma Ray Engineering ,1150 Beech Drive,Greenville ,MD,29601,7038894423
+6,2.7,5.1,1.6,versicolor,adsas,asdas,asdasd,AK,12344,1342342343
+5.4,3,4.5,1.5,versicolor,NextLOGiK,7090 Deepage Road,Columbia,CT,21045,8773998086
+6,3.4,4.5,1.6,versicolor,Test Lab,13039 Tarragon Rd,Reisterstown,MD,21136,4109284789
+6.7,3.1,4.7,1.5,versicolor,New lab ,500 east ave,newyork,NY,10017,3279237932
+6.3,2.3,4.4,1.3,versicolor,new lab,8000 Towers Crescent Drive- Suite 1110- Vienna,vienna,VA,22182,8989098080
+5.6,3,4.1,1.3,versicolor,Test demo,Four Creeks WMA- Callahan,callahan,FL,32011,6767787878
+5.5,2.5,4,1.3,versicolor,Demo test ,Southeast Dr,austin,GA,23323,3242342334
+5.5,2.6,4.4,1.2,versicolor,Demo Laboratory,13036 Tarragon Rd,Reisterstown,dzfgsdfg,21117,45645-56456123123
+6.1,3,4.6,1.4,versicolor,Rainy Day,7061 Deepage Drive,Columbia,MD,21045,4104466136
+5.8,2.6,4,1.2,versicolor,Test Lab 111318,13037 Tarragon Rd # B,Reisterstown,MD,21136,4104464789
+5,2.3,3.3,1,versicolor,November Lab,13037 Tarragon Rd,Reisterstown,MD,21136,4104466136
+5.6,2.7,4.2,1.3,versicolor,Lab Test1,800 Nicholson Lane ,Rockville,MD,20902,4543316464
+5.7,3,4.2,1.2,versicolor,Mike's Concrete Lab,2604 Warren Way,Frederick,CO,21701,3015147645
+5.7,2.9,4.2,1.3,versicolor,Test Labs,9081 8th St,Accro,AL,29556,2656566565
+6.2,2.9,4.3,1.3,versicolor,Demo Lab - 121719,1562 Putty Hill Ave,Baltimore,MD,21286,4654544564
+5.1,2.5,3,1.1,versicolor,KW Laboratory,137 Teaticket Hwy,Teaticket,MA,2536,5997897897
+5.7,2.8,4.1,1.3,versicolor,Surel Technicals,4246  Tibbs Avenue,Culbertson,MT,59218,8522585252
+6.3,3.3,6,2.5,virginica,Tarun informatics,3090 N 4138 Rd,fdssf,AL,23123,2311312312
+5.8,2.7,5.1,1.9,virginica,Teera,dasas,alaska,AL,23414,3423423423
+7.1,3,5.9,2.1,virginica,New Jack Asphalt ,2233 Tilco Dr,Frederick ,MD,21704,2406657654
+6.3,2.9,5.6,1.8,virginica,Gamma Ray Engineering ,1150 Beech Drive,Greenville ,MD,29601,7038894423
+6.5,3,5.8,2.2,virginica,adsas,asdas,asdasd,AK,12344,1342342343
+7.6,3,6.6,2.1,virginica,NextLOGiK,7090 Deepage Road,Columbia,CT,21045,8773998086
+4.9,2.5,4.5,1.7,virginica,Test Lab,13039 Tarragon Rd,Reisterstown,MD,21136,4109284789
+7.3,2.9,6.3,1.8,virginica,New lab ,500 east ave,newyork,NY,10017,3279237932
+6.7,2.5,5.8,1.8,virginica,new lab,8000 Towers Crescent Drive- Suite 1110- Vienna,vienna,VA,22182,8989098080
+7.2,3.6,6.1,2.5,virginica,Test demo,Four Creeks WMA- Callahan,callahan,FL,32011,6767787878
+6.5,3.2,5.1,2,virginica,Demo test ,Southeast Dr,austin,GA,23323,3242342334
+6.4,2.7,5.3,1.9,virginica,Demo Laboratory,13036 Tarragon Rd,Reisterstown,dzfgsdfg,21117,45645-56456123123
+6.8,3,5.5,2.1,virginica,Rainy Day,7061 Deepage Drive,Columbia,MD,21045,4104466136
+5.7,2.5,5,2,virginica,Test Lab 111318,13037 Tarragon Rd # B,Reisterstown,MD,21136,4104464789
+5.8,2.8,5.1,2.4,virginica,November Lab,13037 Tarragon Rd,Reisterstown,MD,21136,4104466136
+6.4,3.2,5.3,2.3,virginica,Lab Test1,800 Nicholson Lane ,Rockville,MD,20902,4543316464
+6.5,3,5.5,1.8,virginica,Mike's Concrete Lab,2604 Warren Way,Frederick,CO,21701,3015147645
+7.7,3.8,6.7,2.2,virginica,Test Labs,9081 8th St,Accro,AL,29556,2656566565
+7.7,2.6,6.9,2.3,virginica,Demo Lab - 121719,1562 Putty Hill Ave,Baltimore,MD,21286,4654544564
+6,2.2,5,1.5,virginica,KW Laboratory,137 Teaticket Hwy,Teaticket,MA,2536,5997897897
+6.9,3.2,5.7,2.3,virginica,Surel Technicals,4246  Tibbs Avenue,Culbertson,MT,59218,8522585252
+5.6,2.8,4.9,2,virginica,Tarun informatics,3090 N 4138 Rd,fdssf,AL,23123,2311312312
+7.7,2.8,6.7,2,virginica,Teera,dasas,alaska,AL,23414,3423423423
+6.3,2.7,4.9,1.8,virginica,New Jack Asphalt ,2233 Tilco Dr,Frederick ,MD,21704,2406657654
+6.7,3.3,5.7,2.1,virginica,Gamma Ray Engineering ,1150 Beech Drive,Greenville ,MD,29601,7038894423
+7.2,3.2,6,1.8,virginica,adsas,asdas,asdasd,AK,12344,1342342343
+6.2,2.8,4.8,1.8,virginica,NextLOGiK,7090 Deepage Road,Columbia,CT,21045,8773998086
+6.1,3,4.9,1.8,virginica,Test Lab,13039 Tarragon Rd,Reisterstown,MD,21136,4109284789
+6.4,2.8,5.6,2.1,virginica,New lab ,500 east ave,newyork,NY,10017,3279237932
+7.2,3,5.8,1.6,virginica,new lab,8000 Towers Crescent Drive- Suite 1110- Vienna,vienna,VA,22182,8989098080
+7.4,2.8,6.1,1.9,virginica,Test demo,Four Creeks WMA- Callahan,callahan,FL,32011,6767787878
+7.9,3.8,6.4,2,virginica,Demo test ,Southeast Dr,austin,GA,23323,3242342334
+6.4,2.8,5.6,2.2,virginica,Demo Laboratory,13036 Tarragon Rd,Reisterstown,dzfgsdfg,21117,45645-56456123123
+6.3,2.8,5.1,1.5,virginica,Rainy Day,7061 Deepage Drive,Columbia,MD,21045,4104466136
+6.1,2.6,5.6,1.4,virginica,Test Lab 111318,13037 Tarragon Rd # B,Reisterstown,MD,21136,4104464789
+7.7,3,6.1,2.3,virginica,November Lab,13037 Tarragon Rd,Reisterstown,MD,21136,4104466136
+6.3,3.4,5.6,2.4,virginica,Lab Test1,800 Nicholson Lane ,Rockville,MD,20902,4543316464
+6.4,3.1,5.5,1.8,virginica,Mike's Concrete Lab,2604 Warren Way,Frederick,CO,21701,3015147645
+6,3,4.8,1.8,virginica,Test Labs,9081 8th St,Accro,AL,29556,2656566565
+6.9,3.1,5.4,2.1,virginica,Demo Lab - 121719,1562 Putty Hill Ave,Baltimore,MD,21286,4654544564
+6.7,3.1,5.6,2.4,virginica,KW Laboratory,137 Teaticket Hwy,Teaticket,MA,2536,5997897897
+6.9,3.1,5.1,2.3,virginica,Surel Technicals,4246  Tibbs Avenue,Culbertson,MT,59218,8522585252
+5.8,2.7,5.1,1.9,virginica,Tarun informatics,3090 N 4138 Rd,fdssf,AL,23123,2311312312
+6.8,3.2,5.9,2.3,virginica,Teera,dasas,alaska,AL,23414,3423423423
+6.7,3.3,5.7,2.5,virginica,New Jack Asphalt ,2233 Tilco Dr,Frederick ,MD,21704,2406657654
+6.7,3,5.2,2.3,virginica,Gamma Ray Engineering ,1150 Beech Drive,Greenville ,MD,29601,7038894423
+6.3,2.5,5,1.9,virginica,adsas,asdas,asdasd,AK,12344,1342342343
+6.5,3,5.2,2,virginica,NextLOGiK,7090 Deepage Road,Columbia,CT,21045,8773998086
+6.2,3.4,5.4,2.3,virginica,Test Lab,13039 Tarragon Rd,Reisterstown,MD,21136,4109284789
+5.9,3,5.1,1.8,virginica,New lab ,500 east ave,newyork,NY,10017,3279237932
